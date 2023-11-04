@@ -1,0 +1,7 @@
+Gate: ANDGate(x=337 y=202)
+Inputs: Input(x=239 y=136) Input(x=184 y=206)
+Gate: XORGate(x=499 y=237)
+Inputs: Input(x=438 y=353)
+Gate: XORGate(x=647 y=311)
+Inputs: Input(x=488 y=391)
+Output: Output(x=957 y=344)

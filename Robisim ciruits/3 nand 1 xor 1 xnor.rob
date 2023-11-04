@@ -1,0 +1,6 @@
+Gate: NANDGate(x=424 y=228)
+Inputs: Input(x=293 y=196) Input(x=237 y=246) Input(x=327 y=295)
+Gate: XORGate(x=786 y=194)
+Inputs: Input(x=497 y=383)
+Gate: XNORGate(x=978 y=343)
+Inputs: Input(x=783 y=416)

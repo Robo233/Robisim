@@ -1,0 +1,5 @@
+Gate: ORGate(x=319 y=171)
+Inputs: Input(x=218 y=161) Input(x=190 y=234)
+Gate: NANDGate(x=487 y=205)
+Inputs: Input(x=308 y=275)
+Output: Output(x=632 y=248)
